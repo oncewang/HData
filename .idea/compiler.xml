@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="hdata-api" />
+        <module name="hdata-console" />
+        <module name="hdata-core" />
+        <module name="hdata-csv" />
+        <module name="hdata-excel" />
+        <module name="hdata-ftp" />
+        <module name="hdata-hbase" />
+        <module name="hdata-hdfs" />
+        <module name="hdata-hive" />
+        <module name="hdata-http" />
+        <module name="hdata-jdbc" />
+        <module name="hdata-kafka" />
+        <module name="hdata-mongodb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hdata" target="1.7" />
+      <module name="hdata-api" target="1.7" />
+      <module name="hdata-console" target="1.7" />
+      <module name="hdata-core" target="1.7" />
+      <module name="hdata-csv" target="1.7" />
+      <module name="hdata-excel" target="1.7" />
+      <module name="hdata-ftp" target="1.7" />
+      <module name="hdata-hbase" target="1.7" />
+      <module name="hdata-hdfs" target="1.7" />
+      <module name="hdata-hive" target="1.7" />
+      <module name="hdata-http" target="1.7" />
+      <module name="hdata-jdbc" target="1.7" />
+      <module name="hdata-kafka" target="1.7" />
+      <module name="hdata-mongodb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

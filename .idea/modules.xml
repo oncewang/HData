@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hdata.iml" filepath="$PROJECT_DIR$/hdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-api/hdata-api.iml" filepath="$PROJECT_DIR$/hdata-api/hdata-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-console/hdata-console.iml" filepath="$PROJECT_DIR$/hdata-console/hdata-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-core/hdata-core.iml" filepath="$PROJECT_DIR$/hdata-core/hdata-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-csv/hdata-csv.iml" filepath="$PROJECT_DIR$/hdata-csv/hdata-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-excel/hdata-excel.iml" filepath="$PROJECT_DIR$/hdata-excel/hdata-excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-ftp/hdata-ftp.iml" filepath="$PROJECT_DIR$/hdata-ftp/hdata-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-hbase/hdata-hbase.iml" filepath="$PROJECT_DIR$/hdata-hbase/hdata-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-hdfs/hdata-hdfs.iml" filepath="$PROJECT_DIR$/hdata-hdfs/hdata-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-hive/hdata-hive.iml" filepath="$PROJECT_DIR$/hdata-hive/hdata-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-http/hdata-http.iml" filepath="$PROJECT_DIR$/hdata-http/hdata-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-jdbc/hdata-jdbc.iml" filepath="$PROJECT_DIR$/hdata-jdbc/hdata-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-kafka/hdata-kafka.iml" filepath="$PROJECT_DIR$/hdata-kafka/hdata-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdata-mongodb/hdata-mongodb.iml" filepath="$PROJECT_DIR$/hdata-mongodb/hdata-mongodb.iml" />
+    </modules>
+  </component>
+</project>
